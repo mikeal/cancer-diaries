@@ -8,4 +8,7 @@
   * Met the oncologist, more labs, blocked on scheduling more imaging to figure this out.
   * Rental car (which had a full charge when I got it) failed to charge, swapped it out.
   * Another excellent meal at Green Gulch
-
+* [Day Three](./posts/11-22-2024-day-three.md)
+  * Concerning Labs (suggest late stage)
+  * REI/CapitalOne Credit Card Drama
+  * Samyukta-Agama and Women-in-Buddhism from ~500BC to now.
