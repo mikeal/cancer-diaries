@@ -12,3 +12,6 @@
   * Concerning Labs (suggest late stage)
   * REI/CapitalOne Credit Card Drama
   * Samyukta-Agama and Women-in-Buddhism from ~500BC to now.
+* [Day Four](./posts/11-23-2024-day-four.md)
+  * Road trip begins
+  * Setup [`best-memories`](./best-memories) for submissions
