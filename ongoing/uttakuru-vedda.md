@@ -1,34 +1,3 @@
-Today was mostly road-tripping with the family, so not much to say since I'm not gonna talk about my family here. Instead, i wrote up a few things that I'm putting in a new section called "ongoing" which is a place for me to put ongoing projects/stories that I may continue to add to. You won't see any tech projects there, cause there's already plenty of programmers doing tech projects.
-
-I'm writing two today, that are also copied below. The first is an ongoing saga with Tesla regarding our ill-fated ["Model X"](../ongoing/model-x.md) which was totalled before Father's day but is somehow still in an insane limbo between Tesla entities (Finance and Insurance).
-
-The second is more important, it's about a hidden origin of Dharma I may have discovered. Working through theories that involve pre-history are difficult if not impossible for full time scholars, so I doubt I'll ever be able to finish it. It involves the ["Uttakuru" and the "Vedda/Veda"](../ongoing/uttakuru-vedda.md) which I believe are the same peoples originally.
-
-# Model X Saga
-
-I bought a Model X after the Filecoin launch because I figured one big purchase was worth it, and I've never owned a "luxury" car. I won't even get into the unfortunate things that happened before it was totalled (the front bumper was damaged in a parking lot hit and run, and then the whole side of that bumper and the sensor were hit in another hit and run in which i was driving and the car hit me on purpose and then sped into the tunnel to Oakland).
-
-A few weeks before Father's day my wife was driving and thought the auto-pilot was engaged but apparently it wasn't. The car veered down an un-even road into a very well established pole. She wasn't going very fast, nobody was seriously injured, but since that car is very heavy and the pole did not move a millemeter the car was totalled.
-
-The police advised that we send it to a tow yard that charges something like a thousand a week. Even though insurance is suppose to eventually pay for that, i'm sure they find a way to make us eat some if not all of it, so Anna dilligently called around to find someone to repair it, finally finding someone that advised she just get into the tow yard and take pictures to send to insurance because if it's totally there will be extra tow fees to and from the repair shop. The first time she went to the yard they claimed she wasn't allowed to go back and get pictures, after we found out that's a lie, probably part of some tow yard scam, she went back and was able to get in to get pictures.
-
-After Tesla got the pictures they said, ya, it's totalled.
-
-Now, this is:
-1. A car made by Tesla.
-2. Under a lease from Tesla Finance.
-3. With Tesla Insurance.
-
-You would think this could be resolved quickly... but it is still not resolved.
-
-Endless back and forth to first certify a total loss, then about exactly how much it's worth, and now about how to send us the difference and who should pay (we received a check from Tesla Insurance that they actually put a stop payment on and pointed the finger at Tesla Finance instead).
-
-And during all of this, the systems at Tesla don't seem to understand the car is totalled. I get automated and actual person calls on my voicemail to resolve the fact that we aren't paying the lease, and they recently sent certified mail saying they will be "reposessing the car" (good luck!).
-
-The degree to which the right hand doesn't know what the left is doing is absurd. I'm used to companies wasting my time in order to make more money, but this is actually wasting a lot of **their** time.
-
-At this point their best advise is to ignore the notifications and other messages about the car :/
-
 # Uttakuru and the Vedda/Veda
 
 Pre-history (before the year zero) is difficult to even consider "history" in that we don't have much means of verification. Very little is preserved. We dig up old stuff and tell stories about it, and we try to align those stories with the earliest stories humans kept about the world they lived in.
