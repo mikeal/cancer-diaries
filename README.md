@@ -15,6 +15,6 @@
 * [Day Four](./posts/11-23-2024-day-four.md)
   * Road trip begins
   * Setup [`best-memories`](./best-memories) for submissions
-* [Day Five]('./posts/11-24-2024-day-five.md')
+* [Day Five](./posts/11-24-2024-day-five.md)
   * The Model X Saga
   * Uttakuru and the Vedda/Veda
