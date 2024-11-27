@@ -18,3 +18,10 @@
 * [Day Five](./posts/11-24-2024-day-five.md)
   * The Model X Saga
   * Uttakuru and the Vedda/Veda
+* [Day Six & Seven](./posts/11-26-2024-day-six-and-seven.md)
+  * The Three Turnings of Buddhism
+    * Shakyamuni
+    * Nagarjuna
+    * Asanga & Vasubandhu
+    * Xuanzang
+    * Xuanzang's Dependent Origination Sutra
