@@ -9,7 +9,7 @@ was meeting the creator of a popular open-source library for the JavaScript
 runtime I'd recently become obsessed with.
 
 As starstruck as I was, it was cool to see that open-source was done by real
-human beings, and that those human beings would be willing to the time to talk
+human beings, and that those human beings would be willing to take the time to talk
 with a green software developer like myself.
 
 I think this was one of the interactions that helped give me the confidence to
