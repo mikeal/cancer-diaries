@@ -25,3 +25,7 @@
     * Asanga & Vasubandhu
     * Xuanzang
     * Xuanzang's Dependent Origination Sutra
+* Week 2
+  * Family Trip
+* [Week 3](./posts/12-12-2024.md)
+  * Diagnosis: Stage 4 colorectal cancer.
