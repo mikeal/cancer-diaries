@@ -2,9 +2,11 @@
 
 I saw the post today about the primary being in the colon. My late father was diagnosed with Stage 4 metastatic lung cancer in his brain in 2005.
 
+When he was diagnosed he was given three months to live. He went on to live for 11 years.
+
 ## NYU Langone
 
-The NYU Langone hospital system – specifically [Dr. Abe Chachoua][1] – were instrumental to this. My research began here and I found a short list of Gastrointestinal Oncologists that may be of interest:
+The NYU Langone hospital system – specifically [Dr. Abe Chachoua][1] – were instrumental to him winning the fight for so long. My research began here and I found a short list of Gastrointestinal Oncologists that may be of interest:
 
 * [Kristen Spencer, D.O.][2] – Director of Phase 1 Trials which stood out to me because it is focused on patients with advanced metastatic cancers 
 * [Nina Beri, MD][3] – Principal Investigator on a number of clinical trials (39) of related advanced cancers 
@@ -20,7 +22,9 @@ It's ~10pm and I've already gotten a number of links of suggestions from other f
 
 I will add more here as I find it. Until then: believe in your fight and anything is possible. Truly.
 
-When my father was diagnosed he was given three months to live. He went on to live for 11 years. The belief that he had that "this was not his time" was as powerful as the therapies that helped stay his cancer for all that time.
+For my father, his belief that "this was not his time" was as powerful as the therapies that helped stay his cancer for all that time.
+
+May you find that same strength to fight to win ❤️
 
 [1]: https://nyulangone.org/doctors/1518968643/abraham-chachoua
 [2]: https://nyulangone.org/doctors/1720400906/kristen-spencer
