@@ -1,5 +1,12 @@
 # Cancer Diaries
 
+# Recent
+
+* [Week 3](./posts/12-12-2024.md)
+  * Diagnosis: Stage 4 colorectal cancer.
+
+# Archive
+
 * [Day One](./posts/11-20-2024-day-one.md)
   * "I've got cancer"
   * Didn't catch it early.
@@ -27,5 +34,4 @@
     * Xuanzang's Dependent Origination Sutra
 * Week 2
   * Family Trip
-* [Week 3](./posts/12-12-2024.md)
-  * Diagnosis: Stage 4 colorectal cancer.
+
