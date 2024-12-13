@@ -4,6 +4,7 @@
 
 * [Week 3](./posts/12-12-2024.md)
   * Diagnosis: Stage 4 colorectal cancer.
+  * Looking for treatment referrals in `./referrals`
 
 # Archive
 
